@@ -17,3 +17,9 @@
 h1{
     margin-left: 30px;
 }
+.blog p{
+    text-align: justify;
+}
+.blog h3{
+    text-align: center;
+}
