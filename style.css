@@ -3,8 +3,18 @@ p{
     background-color: sienna;
     height: 50px;
     width: 200px;
+    font-size: 20px;
 }
 
 h1{
     color: green;
+}
+h3{
+    color: tomato;
+}
+#russia{
+    color: salmon;
+}
+#usa{
+    color: gray;
 }
